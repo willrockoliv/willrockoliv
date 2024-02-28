@@ -1,8 +1,8 @@
 # 👋 Hi there
 
-# 👨‍💻 About me
+# 👨‍💻 About me:
 
-My name is William, I'm a technology and data enthusiast, graduated in Computer Engineering from [Salvador Arena Engineer College](https://www.linkedin.com/school/faculdade-engenheiro-salvador-arena/) and with a career as a Data Engineer for +5 years.
+I'm a technology and data enthusiast, graduated in Computer Engineering from [Salvador Arena Engineer College](https://www.linkedin.com/school/faculdade-engenheiro-salvador-arena/) and with a career as a Data Engineer for +5 years.
 
 I currently work as a Data Engineer at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/).
 
