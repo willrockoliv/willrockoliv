@@ -17,12 +17,16 @@ In my career I've had the opportunity to work on several interesting projects an
 ![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=mysql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=Databricks&logoColor=red)
 ![Metabase](https://img.shields.io/badge/Metabase-017CEE?style=for-the-badge&logo=Metabase&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230047B3.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-017CEE?style=for-the-badge&logo=Looker&logoColor=white)
+![CSharp](https://img.shields.io/badge/C_Sharp-%236F02B5?style=for-the-badge&logo=CSharp&logoColor=white)
 
 # 🌐 Socials:
 
