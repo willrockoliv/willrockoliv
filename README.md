@@ -2,9 +2,7 @@
 
 # 👨‍💻 About me:
 
-I'm a technology and data enthusiast, graduated in Computer Engineering from [Salvador Arena Engineer College](https://www.linkedin.com/school/faculdade-engenheiro-salvador-arena/) and with a career as a Data Engineer for +5 years.
-
-I currently work as a Data Engineer at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/).
+I'm a technology and data enthusiast, graduated in Computer Engineering from [Salvador Arena Engineer College](https://www.linkedin.com/school/faculdade-engenheiro-salvador-arena/) and with a career as a Data Engineer for +5 years, working in great companies like [Guiabolso](https://www.linkedin.com/company/guiabolso/) and currently at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/).
 
 # 💻 Tech Stack:
 
